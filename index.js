@@ -1,0 +1,7 @@
+console.log('Si llegaste hasta aki, felicidades ganaste los 5 dolares, entra a los siguiente enlaces')
+console.log('---------------------------------------')
+console.log('https://boxvi.vercel.app/boris-quizhpe/')
+console.log('---------------------------------------')
+console.log('https://wa.me/593996474990?text=Hola%20Boris,%20soy%20la%20ganadora%20del%20premio')
+console.log('---------------------------------------')
+console.log('recuerda, con la captura de pantalla de aki podras reclamar tu premio')
